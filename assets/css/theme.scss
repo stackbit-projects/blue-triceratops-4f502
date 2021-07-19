@@ -730,3 +730,12 @@ body.active-side {
         }
     }
 }
+
+// SFTR CUSTOM
+.column-group {
+    display: flex;
+}
+
+.column {
+    width: 50%;
+}
