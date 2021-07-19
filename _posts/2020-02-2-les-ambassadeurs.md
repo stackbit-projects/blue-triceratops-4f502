@@ -3,7 +3,7 @@ layout: post
 title:  "Women's Touch Day"
 author: angela
 categories: [ Women ]
-tags: [ Women ]
+tags: [ Women, Female ]
 image: assets/images/2.jpg
 ---
 
