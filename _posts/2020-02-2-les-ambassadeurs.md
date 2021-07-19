@@ -7,4 +7,4 @@ tags: [ Women, Female ]
 image: assets/images/womens_touch.jpg
 ---
 
-Thanks to everyone who came down to our women's touch game. Great to see the all the girls, new and old 
+Thanks to everyone who came down to our women's touch game. It was especially great to see all the folks who were playing touch for the first time.
