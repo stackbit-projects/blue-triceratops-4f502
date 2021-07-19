@@ -5,6 +5,7 @@ description: We're a touch rugby club based in San Fransisco bay area catering t
 permalink: /about
 comments: false
 image: assets/images/hero_2_cropped.jpg
+image_2: 
 imageshadow: true
 ---
 
