@@ -22,7 +22,7 @@ authors:
     web: 'https://www.wowthemes.net/donate/'
     twitter: 'https://twitter.com/wowthemesnet'
     description: >-
-      Resident link
+      Resident link and content developer
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
