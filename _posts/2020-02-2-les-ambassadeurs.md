@@ -4,7 +4,7 @@ title:  "Women's Touch Day"
 author: angela
 categories: [ Women ]
 tags: [ Women, Female ]
-image: assets/images/2.jpg
+image: assets/images/womens_touch.jpg
 ---
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
