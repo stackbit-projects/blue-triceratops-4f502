@@ -8,6 +8,3 @@ image: assets/images/hero_2_cropped.jpg
 imageshadow: true
 ---
 
-
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
-
