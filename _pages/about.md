@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: San Fransisco Touch Rugby 
 permalink: /about
 comments: false
 image: assets/images/hero_2_cropped.jpg
