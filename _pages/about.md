@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the San Fransisco Touch Rugby Club
+title: Welcome to the San Fransisco Touch Rugby Club!
 description: 
 permalink: /about
 comments: false
