@@ -1,6 +1,7 @@
 ---
 layout: home
 title: SFTR
+subtitle: San Fransisco Touch Rugby Club
 description: We're a touch rugby club based in San Francisco bay area catering to folks of all levels! From social pickup to playing in tournaments across the nation, we have something for all! 
 permalink: /about
 comments: false
